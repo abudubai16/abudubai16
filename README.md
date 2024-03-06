@@ -16,9 +16,9 @@
 </h1>
 
 ### 👨‍🎓: About Me :
-
+  I am a sophomore at National Institure of Technology, Warangal. Some of the stuff I have worked on as well as currently working on are here. Looking forward to newer and more exciting projects. 
 ### 🛠️: Languages and Tools :
-
+  I mostly use python due to my interest in machine learning, therefore I use a lot of OpenCV, Tensorflow, Numpy alongside multiprocessing and threading to parallelize the load. Other than python I had given javascript, HTML and CSS a shot over 2-3 weeks so I understand the basics. I have also extensively used C++(3+ years) and Java(5 years) throughtout my school years as well as college. 
 ### 🔥: My Stats :
 [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=abudubai16&theme=dark&background=000000)](https://git.io/streak-stats)
 
